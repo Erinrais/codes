@@ -67,8 +67,8 @@ quotes = [
     "Чтобы достичь успеха, нужно действовать.",
     "Сложности — это всего лишь временные трудности.",
     "Не останавливайтесь"]
-bot = telebot.TeleBot('5975456091:AAGQmfRFrFp8zKtgoL90TxhS9mOXGO3EwSw')
-API_KEY = '91d625c58bd0d3b73b9bba01cb82bfa4'
+bot = telebot.TeleBot('ТОКЕН')
+API_KEY = 'ТОКЕН'
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 
